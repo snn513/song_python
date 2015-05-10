@@ -1,1 +1,4 @@
-print "Hello world!"
+#!python
+#!master
+
+print "Hello world! master"
